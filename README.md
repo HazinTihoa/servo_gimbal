@@ -2,7 +2,7 @@
 a gimbal with x_axis and y_axis drived by servo
 # https://github.com/HazinTihoa/servo_gimbal.git
 
-##test## 
+##test
 #note:need 3 terminals
 #terminal_1
 roscore
