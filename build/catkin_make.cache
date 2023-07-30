@@ -1,0 +1,2 @@
+ino_serial
+-DCATKIN_DEVEL_PREFIX=/home/tzh/arduino_ws/devel -DCMAKE_INSTALL_PREFIX=/home/tzh/arduino_ws/install -G Unix Makefiles
